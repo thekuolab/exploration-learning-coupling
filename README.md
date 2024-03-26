@@ -14,8 +14,8 @@ List of files:
 **distanced_moved:** raw distance moved in the duration of a trial in unit of pixel<br/>
 **time_novel:** total time in seconds during which the lizard was in the exploration area<br/>
 **total_time:** total observation time in seconds<br/>
-**distance_moved_st:** distance moved standardized by total observation time ( = distance_moved/total_time)
-**time_novel_st:** percent time in the novel environment ( = time_novel/total_time)
+**distance_moved_st:** distance moved standardized by total observation time ( = distance_moved/total_time)<br/>
+**time_novel_st:** percent time in the novel environment ( = time_novel/total_time)<br/>
 **pc1:** score of the first principal component<br/>
 **pc2:** score of the second principal component<br/>
 
