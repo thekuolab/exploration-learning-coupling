@@ -32,7 +32,7 @@ List of files:
 **unpalatable_consumed:** number of bitter crickets consumed<br/>
 **total_consumed:** total number of crickets consumed<br/>
 **palatable_consumed:** number of normal crickets consumed<br/>
-**prey1_2:** different coding of prey1 (1 = palatable/normal, 0 = unpalatable/bitter)<br/>
+**prey1_2:** different coding of prey1 (1 = palatable/normal, 0 = unpalatable/bitter) for logistic GLM<br/>
 **percent_unpalatable_50:** unpalatable_50/total_50<br/>
 **percent_unpalatable_consumed:** unpalatable_consumed/total_consumed<br/>
 **group2:** RY = individuals that associated first red (learning phase) and then yellow (reverse learning phase) with bitterness; YR = individuals that experienced the opposite colour treatment<br/>
