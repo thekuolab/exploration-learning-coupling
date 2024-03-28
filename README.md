@@ -1,6 +1,8 @@
 # exploration-learning-coupling
 
-Repository for data and analytical R code for the manuscript "Faster explorers are better at reversing learned association between prey colour and quality without trade-off with learning speed in a generalist predator".
+**Repository for data and analytical R code for the manuscript "Fast exploration is coupled with a less choosy but more reactive learning style in a generalist predator".**
+
+This study examined personality-cognition correlations in a generalist lizard predator, the common sun skink. We found that fast explorers were less choosy towards low-quality prey and modified their foraging behaviours more with the accumulation of information, whereas slow explorers exhibited the opposite learning style.
 
 List of files:
 
