@@ -43,4 +43,4 @@ List of files:
 
 3. stats.R: R code for statistical analyses and data visualization in this study
 
-4. Suppl tables.docx: Six supplemental tables containing data on the number of control and bitter crickets attacked or consumed in each trial by slow and fast explorers belonging to each color-taste treatment and by individuals of each sex. See manuscript for details. 
+4. Suppl tables.docx: Seven supplemental tables containing data on the number of control and bitter crickets attacked or consumed in each trial by slow and fast explorers belonging to each color-taste treatment and by individuals of each sex. See manuscript for details. 
